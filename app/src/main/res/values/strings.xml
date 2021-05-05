@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercise2</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="editdata">Edit Data</string>
+    <string name="datateman">Data Teman</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="detailteman">Detail Teman</string>
+    <string name="nama">Nama</string>
+    <string name="notel">No Telepon</string>
+</resources>
